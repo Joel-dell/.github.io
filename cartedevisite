@@ -1,0 +1,52 @@
+
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8" />
+			<link rel="stylesheet" href="Carte_de_visite.css" />
+			<title>Carte de visite Joël Marié</title>
+		</head>
+	
+			<body>
+
+				<h1 class="nom"> Sylvestre Joël MARIÉ </h1>
+
+				<div class=avatar><br/><img src="avatar_joel.png" alt="avatar joel"> </a><br/><br/></div><br/><br/>
+				<p class="numero"> +33 6 88 03 87 38 </p> 
+				<p class="adresse">	2 rue du Vigneau </p> 
+				<p class="ville">	85710 Châteauneuf </p> 
+				<p class="mail">	<a href="mailto sjmarie@outlook.fr">sjmarie@outlook.fr</a> </p>
+				</p><br/><br/><br/><br/><br/>
+
+
+				<p class='introduction'> Mon projet de reconversion, je le porte. Je porte une volonté d'<span>avancer</span>, par <span>envie</span> et par choix. C'est une preuve authentique de ma <span>motivation</span> </p> <br/> <br/> <br/> <br/><br/><br/>
+				
+				<h2>Voici toutes les raisons pour lesquelles je souhaite aller de l'avant avec l'école SIMPLON :</h2>
+
+				<ul class="raisons"><br/>
+				 <li>le changement</li><br/>
+				 <li>Apprendre un nouveau métier d'avenir</li><br/>
+				 <li>une réelle perspective d'évolution dans la même entreprise</li><br/>
+				 <li>Je me présente à ce parcours de formation de développeur web, dans l'optique d'entreprendre, d'avancer et de concrétiser des projets</li><br/>
+				 <li>J'ai toujours été attiré vers la résolution de problèmes et cela peu importe le domaine. De par mon parcours de vie, j'ai découvert l'univers informatique tardivement. C'est un secteur en constante évolution qui s'oriente généralement vers un but commun, avec des répercussions dans le quotidien, notamment en passant par la satisfaction d'un besoin.</li>
+				</ul>
+
+
+				<h2>Voici mes qualités :</h2> 
+				<ul class="liste1">
+					<li> motivation</li> <li> organisation</li> <br/>
+					<li> polyvalence</li> <li> esprit d'équipe</li><br/>
+					<li> autonomie</li> <li> curiosité</li> <br/><br/>
+	
+				</ul>
+
+
+				<h2>En suivant ces liens vous aurez accès à mes profils:</h2> <br/><ul class="liste2"><br/>
+				<li><a href="https://www.hackerrank.com/sjmarie">HackerRank</a></li><br/>
+				<li><a href="https://openclassrooms.com/fr/members/xbqzd34sz467" >OpenClassroom</a></li><br/>
+			</ul>
+
+	
+			</body>
+	
+	</html>
